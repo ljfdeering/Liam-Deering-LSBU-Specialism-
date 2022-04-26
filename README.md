@@ -9,4 +9,5 @@ There is also the radar distance, so this is for the relative distance of the ra
 
 Now for displaying the objects on the radar you want The two in the image below are called enemy and npc the name should be the name of Two new tags in your scene attached to the objects that you want to be displayed for my case it’s green capsules as npc and red as enemy so that's what the layers are called and what the tags are called.
 
-![](Screenshot (6).png)
+![Screenshot (6)](https://user-images.githubusercontent.com/91532021/165269556-fcae07e2-36b0-43c1-b879-0bdd7593dfa1.png)
+
